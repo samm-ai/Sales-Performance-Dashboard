@@ -1,7 +1,9 @@
 # **Tableau User Story | Sales Performance**
 ---
 ## **Introduction**
-<p>This repository contains a comprehensive project focused on creating Sales and Customer Dashboards using Tableau to empower stakeholders, including sales managers and executives, with actionable insights into sales performance and customer data.<p/>
+This repository contains a comprehensive project focused on creating Sales and Customer Dashboards using Tableau to empower stakeholders, including sales managers and executives, with actionable insights into sales performance and customer data.
+ - Unprocessed Dataset file - [Tableau-public_Superstore_Dataset]( https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Sample_Superstore_Sales.xls) / [kaggle_Superstore_Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+ - Processed Dataset file - [Customers](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Customers.csv) [Locations](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Location.csv) [Orders](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Orders.csv) [Products](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Products.csv)
 
 ---
 # **Sales Dashboard | Requirements**
