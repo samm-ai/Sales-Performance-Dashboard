@@ -1,19 +1,23 @@
 # **Tableau User Story | Sales Performance**
 ---
 ## **Introduction**
-This repository contains a comprehensive project focused on creating Sales and Customer Dashboards using Tableau to empower stakeholders, including sales managers and executives, with actionable insights into sales performance and customer data.
+This repository contains a comprehensive project focused on creating interactive Sales and Customer Dashboards using Tableau to empower stakeholders, including sales managers and executives, with actionable insights into sales performance and customer data.
+
+---
+
+## **Datasets used**
  - Unprocessed Dataset file - [Tableau-public_Superstore_Dataset]( https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Sample_Superstore_Sales.xls) / [kaggle_Superstore_Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
  - Processed Dataset file - [Customers](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Customers.csv) [Locations](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Location.csv) [Orders](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Orders.csv) [Products](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Products.csv)
 
 ---
 # **Sales Dashboard | Requirements**
 ## **Dashboard Purpose**
-<p>The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.<p/>
+The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 ---
 ## **Key Requirements**
 ### **KPI Overview**
-<p>Display a summary of total sales, profits and quantity for the current year and the previous year.<p/>
+Display a summary of total sales, profits and quantity for the current year and the previous year.
 
 ### **Sales Trends**
  - Present the data for each KPI on a monthly basis for both the current year and the previous year.
@@ -69,4 +73,4 @@ Represent the distribution of customers based on the number of orders they have 
 ### **Data Filters**
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
- - [Sales and Customer Dashboard on Tableau-public](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17370380000210/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**[Sales and Customer Dashboard on Tableau-public](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17370380000210/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
