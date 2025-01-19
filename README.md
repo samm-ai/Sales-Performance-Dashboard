@@ -33,7 +33,7 @@ Display a summary of total sales, profits and quantity for the current year and 
  - Display the average weekly values.
  - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-
+&nbsp;
 [![](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Sales-Dashboard-screenshot.png)](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17370380000210/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -59,7 +59,7 @@ Represent the distribution of customers based on the number of orders they have 
  - Present the top 10 customers who have generated the highest profits for the company.
  - Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
-
+&nbsp;
 [![](https://github.com/samm-ai/Sales-Performance-Dashboard/blob/main/Customer-Dashboard-screenshot.png)](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17370380000210/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
